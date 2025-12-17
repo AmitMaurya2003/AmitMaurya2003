@@ -38,7 +38,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development and improving my Data Structures & Algorithms (DSA) skills.**
 
-- 💬 Ask me about **Java, DSA, JavaScript, React.js, Express.js, Node.js, MongoDB**
+- 💬 Ask me about **Java, DSA, JavaScript, TypeScript, React.js, Express.js, Node.js, MongoDB**
 
 - 📫 How to reach me **amitmauryafzd90@gmail.com** 
 
