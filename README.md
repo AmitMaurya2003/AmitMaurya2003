@@ -23,11 +23,7 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-<br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitmaurya2003" alt="amitmaurya2003" /></a> </p>
+ </div> 
 
 <br>
 
@@ -38,7 +34,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development and improving my Data Structures & Algorithms (DSA) skills.**
 
-- 💬 Ask me about **Java, DSA, JavaScript, TypeScript, React.js, Express.js, Node.js, MongoDB**
+- 💬 Ask me about **Java, DSA, JavaScript, TypeScript, React.js, Next.js, Express.js, Node.js, MongoDB**
 
 - 📫 How to reach me **amitmauryafzd90@gmail.com** 
 
