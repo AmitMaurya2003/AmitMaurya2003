@@ -1,4 +1,54 @@
-<h1 align="center">Hi 👋, I'm Amit Maurya</h1>
+# Hi, I'm Amit Maurya 👋
+
+🎯 **Full-Stack MERN Developer** | Java & DSA | Open to Opportunities  
+📍 India &nbsp;|&nbsp; 📫 amitmauryafzd90@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-maurya-941145260/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/amitmaur5qda/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/amitm_2003/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amitmauryafzd90@gmail.com)
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate full-stack developer from India who loves building real-world web applications using the **MERN stack**. I write clean, maintainable code and have a strong foundation in **Data Structures & Algorithms using Java**.
+
+- 🔭 Currently **open to full-time / internship opportunities**
+- 🌱 Sharpening skills in **FullStack Development** and **Advanced DSA**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Java, TypeScript, JavaScript**
+- ⚡ I believe: *"Good code is its own best documentation."*
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, REST API |
+| **Database** | MongoDB |
+| **DSA** | Java |
+| **Tools** | Git, GitHub, Docker, Postman |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amitmaurya2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmaurya2003&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amitmaurya2003&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+*Thanks for visiting — let's build something great together!* 🚀
+
+
+
+<!-- <h1 align="center">Hi 👋, I'm Amit Maurya</h1>
 <h3 align="center">A passionate Programmer from India.</h3>
 
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p> 
@@ -55,4 +105,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitmaurya2003&show_icons=true&locale=en&layout=compact" alt="amitmaurya2003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitmaurya2003&show_icons=true&locale=en" alt="amitmaurya2003" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitmaurya2003&show_icons=true&locale=en" alt="amitmaurya2003" /></p> -->
